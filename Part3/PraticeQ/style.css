@@ -1,0 +1,29 @@
+div{
+    height: 250px;
+    width: 300px;
+    background-color: grey;
+
+    border-width: 5px;
+    border-color: black;
+    border-style:dotted;
+
+    margin-top: 20px;
+    margin-bottom: 40px;
+    margin-left: 2em;
+    margin-right: 1em;
+    padding: 1em;
+}
+
+.divclass{
+    height:100px;
+    width: 100px;
+    background-color:pink;
+    border: 2px solid black;
+    display: inline-block;
+}
+
+
+li {
+  display: inline;
+  margin: 10px;
+}

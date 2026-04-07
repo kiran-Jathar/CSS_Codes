@@ -1,0 +1,23 @@
+p a{
+    background-color: rgb(87, 189, 155);
+}
+
+
+/* Descendant selector -> applay on element all <p> tag inside div .nested also*/
+div p{ 
+    background-color: rgb(189, 87, 155);
+}
+div section p{
+    background-color: rgb(75, 31, 130);
+}
+.post a{
+    background-color: rgb(135, 186, 32);
+}
+
+p + h3{
+    text-decoration: underline;
+}
+
+div>input{
+    background-color: rgb(101, 201, 158);
+}

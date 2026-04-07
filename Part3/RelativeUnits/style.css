@@ -1,0 +1,23 @@
+h1{
+    border: 2px solid black;
+    width: 50%;
+}
+
+#outer{
+    height: 400px;
+    width: 400px;
+    background-color: rgb(91, 221, 82);
+    margin: 50px;
+}
+
+#inner{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    background-color: rgb(221, 107, 176);
+    margin: 20%;
+}
+
+body{
+    background-color: antiquewhite;
+}

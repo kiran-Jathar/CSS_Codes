@@ -1,0 +1,25 @@
+div{
+    height: auto;
+    width: 700px;
+    background-color: rgb(132, 198, 220);
+    border-width: 5px;
+    border-color: black;
+    border-style: dashed;
+    border-left-style: double;
+    border-left-style: dotted;
+    border-top-color: saddlebrown;
+    padding: 100px;
+    margin: 100px 20px 90px; 
+    border-radius: 20px;    
+}
+
+button{
+    height: 50px;
+    width: 500px;
+    background-color: rgb(17, 147, 191);
+    border-width: 5px;
+    border:10px double black;
+    box-sizing: border-box;
+    
+
+}

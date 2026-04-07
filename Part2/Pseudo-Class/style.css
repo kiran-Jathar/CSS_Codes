@@ -1,0 +1,38 @@
+button:hover{
+    background-color: black;
+    color: white;
+}
+
+button:active{
+    background-color: rgb(255, 0, 0);
+    color: white;
+}
+
+p:active{
+    font-weight: bold;
+    color: rgb(201, 14, 79);
+
+}
+
+input[type="radio"]:checked + label{
+    background-color: rgb(108, 118, 207);
+    font-weight: bold;
+}
+
+
+input:focus {
+  border: 2px solid rgb(22, 173, 22);
+  background-color: rgb(141, 183, 219);
+}
+
+#login:active{
+    background-color: rgb(255, 0, 0);
+}
+
+#checkbox:checked{
+    accent-color: red;
+}
+
+div:nth-of-type(2n) {
+  background-color: rosybrown;
+}

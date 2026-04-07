@@ -1,0 +1,33 @@
+/* universal selector -> applay on all page */
+*{ 
+    font-family:Verdana, sans-serif;
+}
+
+
+/* element selector -> applay on specific element on page */
+h1{
+    color:rgb(53, 43, 149);
+}
+
+
+/* Gruop selector -> applay on multiple element on page */
+button,
+a{
+    background-color:rgb(178, 9, 77);
+    color:white;
+
+}
+
+
+/* Id selector -> applay on specific element with id */
+#login{
+    background-color:rgb(9, 178, 77);
+    color:white;
+}
+
+
+/* Class selector -> applay style on multiple element whose class is same like upvote (use dot) */
+.upvote{
+    background-color:rgb(57, 194, 130);
+    color:rgb(3, 3, 3);
+}

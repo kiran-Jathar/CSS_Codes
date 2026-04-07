@@ -1,0 +1,17 @@
+*{
+    font-family: Cochin;
+}
+
+h1{
+    color: #1b7e4e;
+}
+
+#search-btn{
+    background-color: #1b7e4e;
+    color: white;
+}
+
+.userbtn{
+    background-color: aqua;
+
+}

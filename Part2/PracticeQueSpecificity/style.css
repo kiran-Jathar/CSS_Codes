@@ -1,0 +1,43 @@
+h1{
+    color: pink !important;
+}
+
+#greet{  /*  applay */
+    color:yellow;
+}
+
+.myclass{
+    color:rgb(33, 175, 64)
+} 
+
+
+/* -------------------  */
+
+
+div p{
+    background-color: rgb(139, 32, 32);
+}
+
+.para{   /*  applay */
+    background-color: blue;
+}
+
+p{
+    background-color: green;
+}
+
+
+/* -------------------  */
+
+div .greetDiv .greet{
+    color:green;
+}
+
+.greetDiv p.greet
+{
+    color:rgb(51, 51, 153);
+}
+
+.greetDiv .greet{
+    color: red;
+}
